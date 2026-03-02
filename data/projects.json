@@ -1,0 +1,8 @@
+[
+  {"name":"Nexus Commerce","description":"Realtime e-commerce control center with KPI visuals.","category":"business","status":"Live"},
+  {"name":"Pulse Analytics","description":"Traffic and conversion insights with interactive filters.","category":"analytics","status":"Beta"},
+  {"name":"Astra Portfolio","description":"Motion-enhanced portfolio builder for creators.","category":"creative","status":"Live"},
+  {"name":"LocalOps Panel","description":"Intranet operations board with task timelines.","category":"business","status":"Pilot"},
+  {"name":"Skyline CMS","description":"Modular content editing experience for teams.","category":"productivity","status":"Live"},
+  {"name":"Delta Reports","description":"Automated report snapshots and sharing tools.","category":"analytics","status":"Preview"}
+]
